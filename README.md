@@ -1,16 +1,40 @@
 ### Hi there 👋
 
-<!--
-**jjeamin/jjeamin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align=center>
 
-Here are some ideas to get you started:
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url={https://github.com/jjeamin})]
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/jjeamin)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+### I Love Deep Learning
+
+- I am a Student
+
+### 😄 Research Interest 😄
+
+- Model Compression
+- Object Detection
+- Visualization
+
+### ⚡ Tech ⚡
+
+- Python
+   + **Pytorch**
+   + Tensorflow / Keras
+   + Django
+   + ...
+
+### 🤔 Learning... 🤔
+
+- Full Stack
+  + React JS
+  + Node JS
+ 
+##### Mobile
+
+- React JS
+
+[![blog](https://img.shields.io/badge/Blog-Here-blue?style=for-the-badge)](https://jjeamin.github.io/)
+[![gmail](https://img.shields.io/badge/Gmail-Here-red?style=for-the-badge)](woalsdl600@gmail.com)
+[![naver](https://img.shields.io/badge/Naver-Here-green?style=for-the-badge)](woalsdl500@naver.com)
