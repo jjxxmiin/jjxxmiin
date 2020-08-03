@@ -39,7 +39,7 @@
 <div align=center>
 
 [![blog](https://img.shields.io/badge/Blog-Here-blue?style=for-the-badge)](https://jjeamin.github.io/)
-[![gmail](https://img.shields.io/badge/Gmail-Here-red?style=for-the-badge)](woalsdl600@gmail.com)
-[![naver](https://img.shields.io/badge/Naver-Here-green?style=for-the-badge)](woalsdl500@naver.com)
+[![gmail](https://img.shields.io/badge/Gmail-Here-red?style=for-the-badge)](mailto:woalsdl600@gmail.com)
+[![naver](https://img.shields.io/badge/Naver-Here-green?style=for-the-badge)](mailto:woalsdl500@naver.com)
 
 </div>
