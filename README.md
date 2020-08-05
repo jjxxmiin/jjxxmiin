@@ -9,8 +9,6 @@
 
 ### ❤️ I Love Deep Learning ❤️
 
-- I am a Student
-
 ### 😄 Research Interest 😄
 
 - Model Compression
@@ -25,14 +23,10 @@
    + Django
    + ...
 
-### 🤔 Learning... 🤔
-
-- Full Stack
-  + React JS
-  + Node JS
- 
-- Mobile
-  + React Native
+- C
+- JAVA
+- HTML / CSS / JS
+- Latex(Beamer)
 
 ------
 
