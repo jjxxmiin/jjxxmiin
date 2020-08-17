@@ -17,7 +17,13 @@
 
 ### ⚡ Tech ⚡
 
-[![Jaemin github stats](https://github-readme-stats.vercel.app/api?username=jjeamin)](https://github.com/jjeamin/github-readme-stats)
+
+<div align=center>
+   
+   ![jjeamin github stats](https://github-readme-stats.vercel.app/api?username=jjeamin&show_icons=true&theme=merko)
+   
+</div>
+
 
 - Python
    + **Pytorch**
