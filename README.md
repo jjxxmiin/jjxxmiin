@@ -7,6 +7,14 @@
 
 -----
 
+<div align=center>
+   
+   ![jjeamin github stats](https://github-readme-stats.vercel.app/api?username=jjeamin&show_icons=true&theme=merko)
+   
+</div>
+
+-----
+
 ### ❤️ I Love Deep Learning ❤️
 
 ### 😄 Research Interest 😄
@@ -15,15 +23,7 @@
 - Object Detection
 - Visualization
 
-### ⚡ Tech ⚡
-
-
-<div align=center>
-   
-   ![jjeamin github stats](https://github-readme-stats.vercel.app/api?username=jjeamin&show_icons=true&theme=merko)
-   
-</div>
-
+### ⚡ Stack ⚡
 
 - Python
    + **Pytorch**
