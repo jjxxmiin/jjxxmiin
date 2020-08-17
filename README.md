@@ -17,16 +17,15 @@
 
 ### ⚡ Tech ⚡
 
+[![Jaemin github stats](https://github-readme-stats.vercel.app/api?username=jjeamin)](https://github.com/jjeamin/github-readme-stats)
+
 - Python
    + **Pytorch**
    + Tensorflow / Keras
    + Django
    + ...
-
-- C
-- JAVA
-- HTML / CSS / JS
-- Latex(Beamer)
+   
+- C / JAVA / HTML / CSS / JS / Latex(Beamer)
 
 ------
 
