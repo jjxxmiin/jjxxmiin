@@ -15,23 +15,11 @@
 
 -----
 
-### ❤️ I Love Deep Learning ❤️
-
 ### 😄 Research Interest 😄
 
 - Model Compression
 - Object Detection
 - Visualization
-
-### ⚡ Stack ⚡
-
-- Python
-   + **Pytorch**
-   + Tensorflow / Keras
-   + Django
-   + ...
-   
-- C / JAVA / HTML / CSS / JS / Latex(Beamer)
 
 ------
 
