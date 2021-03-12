@@ -18,7 +18,7 @@
 ### 😄 Research Interest 😄
 
 - Model Compression
-- Object Detection
+- Semantic Segmentation
 - Visualization
 
 ------
