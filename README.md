@@ -1,6 +1,6 @@
 <div align=center>
 
-Hello Deep Learning!
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hello+JM+LOG!)](https://git.io/typing-svg)
 
 </div>
 
