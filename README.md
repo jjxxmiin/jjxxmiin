@@ -1,7 +1,15 @@
 <div align=center>
 
+Hello Deep Learning!
+
+</div>
+
+<div align=center>
+
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/jjeamin)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/jjeamin)
+![Years Badge](https://badges.pufler.dev/years/jjeamin)
+![Repos Badge](https://badges.pufler.dev/repos/jjeamin)
 
 </div>
 
@@ -10,6 +18,8 @@
 <div align=center>
    
    ![jjeamin github stats](https://github-readme-stats.vercel.app/api?username=jjeamin&show_icons=true&theme=merko)
+   
+   ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jjeamin&theme=neon-dark&hide_border=true)
    
 </div>
 
