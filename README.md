@@ -25,11 +25,13 @@
 
 -----
 
+<div align=center>
+   
 ### 😄 Research Interest 😄
 
-- Model Compression
-- Semantic Segmentation
-- Visualization
+**All about Vision Deep Learning**
+
+</div>
 
 ------
 
