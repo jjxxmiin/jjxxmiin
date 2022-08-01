@@ -8,8 +8,6 @@
 
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/jjeamin)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/jjeamin)
-![Years Badge](https://badges.pufler.dev/years/jjeamin)
-![Repos Badge](https://badges.pufler.dev/repos/jjeamin)
 
 </div>
 
@@ -32,6 +30,10 @@
 **All about Vision Deep Learning**
 
 </div>
+
+------
+
+
 
 ------
 
