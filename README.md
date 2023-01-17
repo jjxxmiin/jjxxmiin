@@ -15,8 +15,6 @@
 
 <div align=center>
    
-   ![jjeamin github stats](https://github-readme-stats.vercel.app/api?username=jjeamin&show_icons=true&theme=merko)
-   
    ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jjeamin&theme=neon-dark&hide_border=true)
    
 </div>
